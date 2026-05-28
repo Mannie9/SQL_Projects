@@ -88,9 +88,9 @@ HR_Analytics_Dashboard/
 ├── sql_queries/
 │   └── hr_analysis_queries.sql
 │
-└── screenshots/
+└── Outputs/
     ├── dashboard_overview.png
-    └── kpi_analysis.png
+    └── employee_insights_queries.png
 ```
 
 ---
